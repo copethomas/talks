@@ -2,6 +2,14 @@
 
 A Collection of all the talks and presentations I have given along with their resources.
 
+## 2026
+
+### Jacks Birthday – "My top 9 fav Crypto’s"
+
+- [Blog Post](https://tomcope.com/talk/2026-06-20-jacks-birthday)
+- [Google Slides](https://docs.google.com/presentation/d/1ZUWOZHoZDSmHecc6gipi1M7nsJcsiSI-kpvf4LY8zwE/edit?usp=sharing)
+- [Hard Copies](/2026/jacks_birthday)
+
 ## 2025
 
 ### Woking College – My Cyber Security Career Journey 
