@@ -4,6 +4,13 @@ A Collection of all the talks and presentations I have given along with their re
 
 ## 2026
 
+### BSides Basingstoke - "Threat Modelling OpenSource - Kyverno and the Kubernetes Kraken"
+
+- [Blog Post](https://tomcope.com/talk/2026-07-31-bsides-basingstoke-2026/)
+- YouTube Video - To be published
+- [Google Slides](https://docs.google.com/presentation/d/1F68SttTDjkVEDDacunfl7aivK2eaWoJLadcgjP6BLSw/edit?usp=sharing)
+- [Hard Copies](/2026/bsides_basingstoke)
+
 ### Jacks Birthday – "My top 9 fav Crypto’s"
 
 - [Blog Post](https://tomcope.com/talk/2026-06-20-jacks-birthday)
